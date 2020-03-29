@@ -4,10 +4,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. **Quisque quis facilisi
 # Orci varius
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse mattis, enim ut sodales bibendum, purus tellus aliquam felis, vel placerat lectus massa vitae justo. 
 
-`code` Curabitur pellentesque a quam vel aliquam. 
-`code` In ornare ultricies nunc, nec eleifend est fringilla nec. 
-`code` Cras vestibulum eros ultricies fringilla laoreet. 
-`code` Suspendisse sodales odio risus, et ultricies leo elementum consequat.
+`Curabitur pellentesque a quam vel aliquam.`
+`In ornare ultricies nunc, nec eleifend est fringilla nec.`
+`Cras vestibulum eros ultricies fringilla laoreet. 
+Suspendisse sodales odio risus, et ultricies leo elementum consequat.`
 
 - Fusce metus enim, tristique eu velit eleifend, fringilla tristique purus.
 - Mauris pharetra posuere mauris, id auctor nunc eleifend eget. 
