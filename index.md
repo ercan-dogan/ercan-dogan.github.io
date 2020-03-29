@@ -11,8 +11,6 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 `Cras vestibulum eros ultricies fringilla laoreet. 
 Suspendisse sodales odio risus, et ultricies leo elementum consequat.`
 
-`i++;`
-
 - Fusce metus enim, tristique eu velit eleifend, fringilla tristique purus.
 - Mauris pharetra posuere mauris, id auctor nunc eleifend eget. 
 - Maecenas in justo sit amet est volutpat lobortis vitae id nisl. 
